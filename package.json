@@ -1,0 +1,15 @@
+{
+  "name": "ui-library",
+  "version": "1.0.0",
+  "description": "Some UI elements for anyone to use. Made for my own sites, but can be used by anyone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Caden Finkelstein",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
+}
